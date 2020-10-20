@@ -1,7 +1,6 @@
 import React from "react";
 
-export default function Sidebar({ active }) {
-  console.log(active);
+export default function Sidebar() {
   return (
     <>
       <div className="col-md-5 col-lg-3">
