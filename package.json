@@ -15,7 +15,11 @@
     "react-dom": "^16.14.0"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/umarshd/minejob-next.git"
