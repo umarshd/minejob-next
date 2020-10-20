@@ -15,7 +15,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "repository": {
