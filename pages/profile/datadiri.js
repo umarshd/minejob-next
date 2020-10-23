@@ -1,7 +1,7 @@
 import React from "react";
 import DataDiriPage from "../../components/dashboard/DataDiriPage";
 import Header from "../../components/layouts/Header";
-import Sidebar from "../../components/layouts/Sidebar";
+import Sidebar from "../../components/layouts/dashboard/profile/SidebarProfile";
 
 export default function datadiri() {
   return (

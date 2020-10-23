@@ -27,6 +27,14 @@ class MyDocument extends Document {
             <link rel="stylesheet" href="/assets/css/preferensiPekerjaan.css" />
             <link rel="stylesheet" href="/assets/css/profileSetup.css" />
             <link rel="stylesheet" href="/assets/css/unggahResume.css" />
+            <link rel="stylesheet" href="/assets/css/editprofile.css" />
+            <link rel="stylesheet" href="/assets/css/carilowongan.css" />
+            <link rel="stylesheet" href="/assets/css/jadwalinterview.css" />
+            <link rel="stylesheet" href="/assets/css/jobdetail.css" />
+            <link
+              rel="stylesheet"
+              href="/assets/css/detailundanganinterview.css"
+            />
             <link
               rel="stylesheet"
               href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"

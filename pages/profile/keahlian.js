@@ -1,8 +1,8 @@
 import Head from "next/head";
 import React from "react";
-import KeahlianPage from "../../components/dashboard/KeahlianPage";
+import KeahlianPage from "../../components/dashboard/profile/KeahlianPage";
 import Header from "../../components/layouts/Header";
-import Sidebar from "../../components/layouts/Sidebar";
+import Sidebar from "../../components/layouts/dashboard/profile/SidebarProfile";
 
 export default function keahlian() {
   return (

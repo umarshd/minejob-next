@@ -1,8 +1,8 @@
 import Head from "next/head";
 import React from "react";
-import UnggahResumePage from "../../components/dashboard/UnggahResumePage";
+import UnggahResumePage from "../../components/dashboard/profile/UnggahResumePage";
 import Header from "../../components/layouts/Header";
-import Sidebar from "../../components/layouts/Sidebar";
+import Sidebar from "../../components/layouts/dashboard/profile/SidebarProfile";
 
 export default function unggahresume() {
   return (

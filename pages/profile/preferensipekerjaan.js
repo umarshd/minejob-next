@@ -2,7 +2,7 @@ import Head from "next/head";
 import React from "react";
 import PreferensiPekerjaanPage from "../../components/dashboard/PreferensiPekerjaanPage";
 import Header from "../../components/layouts/Header";
-import Sidebar from "../../components/layouts/Sidebar";
+import Sidebar from "../../components/layouts/dashboard/profile/SidebarProfile";
 
 export default function preferensipekerjaan() {
   return (
